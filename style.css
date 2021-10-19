@@ -1,0 +1,64 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel-MAINDIV {
+    border: 3px solid #6f00ff;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travl-MAINDIV img {
+    width: 100%;
+}
+
+.travel-MAINDIV h5, .travel-MAINDIV p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid aquamarine;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 100px;
+}
+
